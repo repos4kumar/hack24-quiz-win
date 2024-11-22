@@ -19,3 +19,5 @@ By offering a seamless, rewarding, and educational experience, the feature aims 
 As no one on the team has experience in web or app development, we focused on creating app screens to illustrate how the feature would look and function. 
 A PPT and document detailing the complete project are available.
 
+##### Document: https://docs.google.com/document/d/16Wdr85yCmy2bHPHGNk00X9Gopw_B4X8cVKQ62nebCOI/edit?usp=sharing
+
