@@ -20,4 +20,5 @@ As no one on the team has experience in web or app development, we focused on cr
 A PPT and document detailing the complete project are available.
 
 ##### Document: https://docs.google.com/document/d/16Wdr85yCmy2bHPHGNk00X9Gopw_B4X8cVKQ62nebCOI/edit?usp=sharing
+##### PPT Video: https://drive.google.com/file/d/1JN6iOiJC1TjRaoKXjfLdRZD5pZYDr7f9/view?usp=sharing
 
